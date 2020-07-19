@@ -1,0 +1,19 @@
+{
+  "name": "JunhoPublishPlugin",
+  "version": "1.0.0",
+  "description": "webpack auto publish plugin",
+  "main": "./lib/index.js",
+  "keywords": [],
+  "author": "junhoChan",
+  "email": "857252831@qq.com",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.4"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "compressing": "^1.5.1",
+    "form-data": "^3.0.0"
+  }
+}
