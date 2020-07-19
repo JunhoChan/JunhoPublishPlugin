@@ -1,5 +1,5 @@
 {
-  "name": "JunhoPublishPlugin",
+  "name": "junho-publish-plugin",
   "version": "1.0.0",
   "description": "webpack auto publish plugin",
   "main": "./lib/index.js",

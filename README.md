@@ -14,6 +14,7 @@ $: npm run build
 
 ### configuration
 ```js
+const JunhoPublishPlugin = require('junho-publish-plugin')
 new JunhoPublishPlugin({
   domain: 'http://localhost:3001/receive',
   target: 'D:\\webpackPlugin\\pubt\\upload',
